@@ -48,7 +48,7 @@ The scripts are numbered to guide you through a typical statistical analysis pro
 
 -----
 
-# 👤 Author
+# 👤 Repo Owner :
 Aseem Joshi
 
 GitHub: @aseemjoshi-29
